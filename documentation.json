@@ -1,0 +1,48 @@
+{
+	"root": [
+		{"PictureNameToSendAbleData(self,fileName)": "make file name to target data type"},
+		{"SendAbleDataToPictureName(self, fileDictionary)":"make target data type to saved file name"}
+	],
+	"systemOperator": [
+		{
+			"__init__": "load data in DataBase from json"
+		},
+		{
+			"Save": "store DataBase to json"
+		},
+		{
+			"getUserList": "..."
+		},
+		{
+			"addUser": "..."
+		},
+		{
+			"getFriendName": "get the friend true name by input ID"
+
+		},
+		{
+			"getFriendList": "..."
+		},
+		{
+			"getArticleList": "..."
+		},
+		{
+			"getLegalArticle": "get article is posted by friend"
+		},
+		{
+			"getNewerArticle": "input an article List and return self's newer article"
+		},
+		{
+			"getTargetArticle": "get article data by input articel ID"
+		},
+		{
+			"updateArticle": "..."
+		},
+		{
+			"getPersonalDataList": "..."
+		}
+
+
+	]
+
+}

@@ -1,0 +1,116 @@
+{
+	"friend_list": [
+		{
+			"ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6"
+		}
+	],
+	"article_list": [
+		{
+			"latest_edit_time": "2019.12.27.13.42.50",
+			"article_ID": "260d41a3-68e2-427a-89a4-e913eae686d4",
+			"owner_ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"parent_ID": "",
+			"root_article_ID": "",
+			"content": "網應好難ㄏㄏ",
+			"image_content": [],
+			"like_list": [
+				"77da02d8-1f41-42ff-bd7a-2f02380c27f6"
+			],
+			"position_tag": [
+				"LAB"
+			],
+			"friend_tag": [
+				"e59bfe3a-a973-4815-a0c5-2b7f5d0689ff"
+			],
+			"deletion": false
+		},
+		{
+			"latest_edit_time": "2019.12.27.13.41.08",
+			"article_ID": "9d93a78f-ed29-48a4-be34-468b3328e447",
+			"owner_ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"parent_ID": "",
+			"root_article_ID": "",
+			"content": "你好我在台北市大安區，大安森林公園很棒。",
+			"image_content": [
+				{
+					"file_name": "ee21604f-23e5-4f0b-8143-55234ccabfd6.png"
+				},
+				{
+					"file_name": "97c28000-344a-4a5b-9d49-f0cfa33946e8.png"
+				},
+				{
+					"file_name": "fd0e0857-b3c9-42bd-a826-64c265903c61.png"
+				}
+			],
+			"like_list": [
+				"77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+				"e59bfe3a-a973-4815-a0c5-2b7f5d0689ff"
+			],
+			"position_tag": [
+				"台北",
+				"大安",
+				"我家",
+				"myHouse"
+			],
+			"friend_tag": [],
+			"deletion": false
+		},
+		{
+			"latest_edit_time": "2019.12.26.23.43.34",
+			"article_ID": "9d99478f-5451-48a4-be34-468b3328e447",
+			"owner_ID": "e59bfe3a-a973-4815-a0c5-2b7f5d0689ff",
+			"parent_ID": "",
+			"root_article_ID": "",
+			"content": "林口好冷",
+			"image_content": [
+				{
+					"file_name": "a9a73221-1328-4b73-a186-dda03b780e89.png"
+				}
+			],
+			"like_list": [
+				"e59bfe3a-a973-4815-a0c5-2b7f5d0689ff",
+				"77da02d8-1f41-42ff-bd7a-2f02380c27f6"
+			],
+			"position_tag": [],
+			"friend_tag": [],
+			"deletion": false
+		},
+		{
+			"latest_edit_time": "2019.12.27.13.43.30",
+			"article_ID": "8a67c4b7-d4c2-426a-96d6-c4953c77d369",
+			"owner_ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"parent_ID": "260d41a3-68e2-427a-89a4-e913eae686d4",
+			"root_article_ID": "260d41a3-68e2-427a-89a4-e913eae686d4",
+			"content": "對阿好難",
+			"image_content": [],
+			"like_list": [],
+			"position_tag": [
+				"LAB",
+				"資工系"
+			],
+			"friend_tag": [],
+			"deletion": false
+		}
+	],
+	"personal_data_list": [
+		{
+			"ID": "e59bfe3a-a973-4815-a0c5-2b7f5d0689ff",
+			"user_name": "mucolores2",
+			"profile_picture": "target.png",
+			"profile_context": "你好我是使用者2號",
+			"background_picture": "test.jpg",
+			"latest_edit_time": "2019.11.20.11.11.20",
+			"IP": "127.0.0.1"
+		},
+		{
+			"ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"user_name": "Mucolores_new",
+			"profile_picture": "04a303e4-2792-4707-89d0-824c3505e216.png",
+			"profile_context": "test profile",
+			"background_picture": "6fd28ca1-a32c-4cb2-b2da-f568ddc86622.jpg",
+			"latest_edit_time": "2019.12.27.13.41.51",
+			"IP": "127.0.0.1"
+		}
+	],
+	"add_friend_request": []
+}

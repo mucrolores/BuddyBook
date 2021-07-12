@@ -1,0 +1,83 @@
+{
+	"user_list": [
+		{
+			"ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"name": "Mucolores",
+			"IP": "127.0.0.1"
+		},
+		{
+			"ID": "e59bfe3a-a973-4815-a0c5-2b7f5d0689ff",
+			"name": "mucolores2",
+			"IP": "127.0.0.1"
+		}
+	],
+	"friend_list": [
+		"3b2831cb-cee2-4e1e-b71f-0b1d65492f53"
+	],
+	"article_list": [
+		{
+			"latest_edit_time": "2019.12.19.22.38.00",
+			"article_ID": "9d93a78f-ed29-48a4-be34-468b3328e447",
+			"owner_ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"parent_ID": "",
+			"root_article_ID": "",
+			"content": "你好我在台北市大安區，大安森林公園很棒。",
+			"image_content": [
+				{
+					"file_name": "a9a73221-1328-4b73-a186-dda03b780e89.png"
+				},
+				{
+					"file_name": "157abb56-999d-47fc-835d-38e2aeda8155.png"
+				},
+				{
+					"file_name": "16962935-2f07-4b5d-988b-82813ecccf6f.png"
+				}
+			],
+			"like_list": [
+				"77da02d8-1f41-42ff-bd7a-2f02380c27f6"
+			],
+			"position_tag": [
+				"台北",
+				"大安",
+				"我家",
+				"myHouse"
+			],
+			"friend_tag": [
+				"e59bfe3a-a973-4815-a0c5-2b7f5d0689ff"
+			],
+			"deletion": false
+		},
+		{
+			"latest_edit_time": "2019.11.20.11.11.34",
+			"article_ID": "",
+			"owner_ID": "",
+			"parent_ID": "",
+			"root_article_ID": "",
+			"content": "",
+			"image_content": [],
+			"like_list": [],
+			"position_tag": [],
+			"friend_tag": [],
+			"deletion": true
+		}
+	],
+	"personal_data_list": [
+		{
+			"ID": "77da02d8-1f41-42ff-bd7a-2f02380c27f6",
+			"user_name": "Mucolores",
+			"profile_picture": "target.png",
+			"profile_context": "你好我是謝秉寰",
+			"background_picture": "test.jpg",
+			"latest_edit_time": "2019.11.20.11.11.19"
+		},
+		{
+			"ID": "e59bfe3a-a973-4815-a0c5-2b7f5d0689ff",
+			"user_name": "mucolores2",
+			"profile_picture": "target.png",
+			"profile_context": "你好我是使用者2號",
+			"background_picture": "test.jpg",
+			"latest_edit_time": "2019.11.20.11.11.20"
+		}
+	],
+	"add_friend_request": []
+}

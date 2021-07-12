@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2efdbbc-38de-4dc6-9945-d5271575c982" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BuddyBookFinal/BuddyBookFinal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="1035" column="16" selection-start-line="1035" selection-start-column="16" selection-end-line="1035" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-449450583/PyQt5/QtWidgets/QApplication.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="258" column="8" selection-start-line="258" selection-start-column="8" selection-end-line="258" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RecL</find>
+      <find>喜歡這</find>
+      <find>FriendListPageOCL</find>
+      <find>class</find>
+      <find>&quot;Post A</find>
+      <find>Dialog.exec</find>
+      <find>LikeUp</find>
+      <find>lambda</find>
+      <find>text</find>
+      <find>lam</find>
+      <find>uuid</find>
+      <find>.to</find>
+      <find>toPlain</find>
+      <find>RecAddF</find>
+      <find>comment</find>
+      <find>SetArticle</find>
+      <find>Lo</find>
+      <find>commentArticle</find>
+      <find>PostArticleOCL</find>
+      <find>Locla</find>
+      <find>AddArticleDialog</find>
+      <find>FriendPage</find>
+      <find>SetArticleListPage</find>
+      <find>&quot;Post</find>
+      <find>time</find>
+      <find>&quot;Post Article</find>
+      <find>OCL</find>
+      <find>9487</find>
+      <find>Local</find>
+      <find>type</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/socket1.py" />
+        <option value="$PROJECT_DIR$/initFile.py" />
+        <option value="$PROJECT_DIR$/socketClient.py" />
+        <option value="$PROJECT_DIR$/socketServer.py" />
+        <option value="$PROJECT_DIR$/venv/file.py" />
+        <option value="$PROJECT_DIR$/file.py" />
+        <option value="$PROJECT_DIR$/localJson.json" />
+        <option value="$PROJECT_DIR$/socketNode2.py" />
+        <option value="$PROJECT_DIR$/Qt_with_Socket_2.py" />
+        <option value="$PROJECT_DIR$/venv/open_html_test.py" />
+        <option value="$PROJECT_DIR$/testPage.html" />
+        <option value="$PROJECT_DIR$/testPage2.html" />
+        <option value="$PROJECT_DIR$/HtmlTestFile.py" />
+        <option value="$PROJECT_DIR$/QT_with_socket.py" />
+        <option value="$PROJECT_DIR$/QTTest.py" />
+        <option value="$PROJECT_DIR$/testJson.json" />
+        <option value="$PROJECT_DIR$/socketNode1.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/QTFile/QTTest.py" />
+        <option value="$PROJECT_DIR$/QTLayout.py" />
+        <option value="$PROJECT_DIR$/QTFile/QTLayout.py" />
+        <option value="$PROJECT_DIR$/LocalDataBase.json" />
+        <option value="$PROJECT_DIR$/data_processing.py" />
+        <option value="$PROJECT_DIR$/BuddyBookNode1.py" />
+        <option value="$PROJECT_DIR$/OutConnectTest/testTCP1.py" />
+        <option value="$PROJECT_DIR$/QTFile/QTTestfile.py" />
+        <option value="$PROJECT_DIR$/testFile.py" />
+        <option value="$PROJECT_DIR$/OutConnectTest/test.py" />
+        <option value="$PROJECT_DIR$/BuddyBookTestDir/LocalDataBase1.json" />
+        <option value="$PROJECT_DIR$/BuddyBookTestDir/LocalDataBase2.json" />
+        <option value="$PROJECT_DIR$/OutConnectTest/LocalDataBase1.json" />
+        <option value="$PROJECT_DIR$/OutConnectTest/testFile.py" />
+        <option value="$PROJECT_DIR$/QTFile/QTBuddyBook.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/testQT.py" />
+        <option value="$PROJECT_DIR$/BuddyBookTestDir/BuddyBookNode1.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/testCore.py" />
+        <option value="$PROJECT_DIR$/BuddyBookTestDir/BuddyBookNode2.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/BuddyBookFinalNode2.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/LocalDataBase2.json" />
+        <option value="$PROJECT_DIR$/protectedDB.json" />
+        <option value="$PROJECT_DIR$/documentation.txt" />
+        <option value="$PROJECT_DIR$/documentation.json" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/LocalDataBase.json" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/BuddyBookFinal.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/OutConnectTest/ZCH.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinal/testFile.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinalTest/LocalDataBase2.json" />
+        <option value="$PROJECT_DIR$/BuddyBookFinalTest/BuddyBookFinal.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinalTest/BuddyBookFinal2.py" />
+        <option value="$PROJECT_DIR$/BuddyBookFinalTest/LocalDataBase.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BuddyBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuddyBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuddyBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuddyBook" type="462c0819:PsiDirectoryNode" />
+              <item name="BuddyBookFinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuddyBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuddyBook" type="462c0819:PsiDirectoryNode" />
+              <item name="QTFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\BuddyBookFinal" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\BuddyBookFinalTest" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\OutConnectTest" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\QTFile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\OutConnectTest" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\BuddyBookTestDir" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject\QTFile" />
+      <recent name="C:\Users\mucolores\Desktop\CGU_Stuff\Uni_3\First\InternetApplicationDesign\SocketProject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.BuddyBookFinal">
+    <configuration name="BuddyBookFinal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SocketProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BuddyBookFinalTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BuddyBookFinalTest/BuddyBookFinal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BuddyBookFinal2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SocketProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BuddyBookFinalTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BuddyBookFinalTest/BuddyBookFinal2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SocketProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BuddyBookFinal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BuddyBookFinal/testFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.BuddyBookFinal" />
+      <item itemvalue="Python.BuddyBookFinal2" />
+      <item itemvalue="Python.testFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BuddyBookFinal" />
+        <item itemvalue="Python.BuddyBookFinal2" />
+        <item itemvalue="Python.testFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2efdbbc-38de-4dc6-9945-d5271575c982" name="Default Changelist" comment="" />
+      <created>1571981143441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571981143441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1601686" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49867898" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.505284" side_tool="true" weight="0.34512022" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4966975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.494716" weight="0.34512022" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.505284" side_tool="true" weight="0.3479491" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.jpg" />
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/testTCP1.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-449450583/PyQt5/QtWidgets/QListWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="219" column="8" selection-start-line="219" selection-start-column="8" selection-end-line="219" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/test.py" />
+    <entry file="file://$PROJECT_DIR$/socketNode1.py" />
+    <entry file="file://$PROJECT_DIR$/testFile.py" />
+    <entry file="file://$PROJECT_DIR$/QTFile/QTTestfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="149" column="30" lean-forward="true" selection-start-line="149" selection-start-column="30" selection-end-line="149" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#3788#3822#0" />
+            <element signature="e#3865#3899#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_processing.py" />
+    <entry file="file://$PROJECT_DIR$/QTFile/QTBuddyBook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="147" column="49" selection-end-line="188" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#3788#3822#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/target.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/LocalDataBase1.json" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookTestDir/LocalDataBase2.json" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookTestDir/LocalDataBase1.json" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/BuddyBookFinalNode2.py" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/LocalDataBase2.json" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookTestDir/BuddyBookNode2.py" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/testCore.py" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/testQT.py" />
+    <entry file="file://$PROJECT_DIR$/protectedDB.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="82" column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="336" selection-start-line="336" selection-end-line="336" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/imghdr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/base64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/LocalDataBase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/json/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/0142d244-7299-437b-8576-fab50510eff7.png" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/a66ba785-1f80-418b-be35-c3ea62346ca6.png" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/6b0a5992-a705-4385-9ace-d9b02e38a2ad.png" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookTestDir/BuddyBookNode1.py" />
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/testCore.py" />
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/testFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/testQT.py" />
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/ZCH.py" />
+    <entry file="file://$PROJECT_DIR$/OutConnectTest/BuddyBookFinal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="82" column="68" lean-forward="true" selection-start-line="82" selection-start-column="68" selection-end-line="82" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-449450583/PyQt5/QtWidgets/QTextEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503">
+          <caret line="537" column="27" selection-start-line="537" selection-start-column="8" selection-end-line="537" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/testFile.py" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/c14a2e8a-5af1-4e83-b581-725fc7ba6f42.png" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/uuid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/BuddyBookFinal2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="238" column="57" selection-start-line="238" selection-start-column="57" selection-end-line="238" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/2d3bf58c-44d0-4792-910a-ed3d32e1eb39.png" />
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/LocalDataBase2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/LocalDataBase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="66" column="70" selection-start-line="66" selection-start-column="70" selection-end-line="66" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinalTest/BuddyBookFinal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="122" column="74" selection-end-line="1041" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuddyBookFinal/BuddyBookFinal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="1035" column="16" selection-start-line="1035" selection-start-column="16" selection-end-line="1035" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-449450583/PyQt5/QtWidgets/QApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="258" column="8" selection-start-line="258" selection-start-column="8" selection-end-line="258" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
